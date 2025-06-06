@@ -18,5 +18,5 @@ def generate_qr_code(data):
     display(img)
 
 # Example usage
-data = "https://www.behance.net/manasius"
+data = "teju"
 generate_qr_code(data)
